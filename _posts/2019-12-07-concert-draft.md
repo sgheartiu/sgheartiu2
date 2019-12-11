@@ -159,7 +159,7 @@ We would like to thank the following people:
 - <b>Fan support funds contributors</b> for contributing generously so that the fan support could happen,
 - <b>Volunteers</b> for lending a helping hand during the preparation and execution,
 - <b>Singaenas</b> for attending the concert and making IU feel welcome in the hometown of BBI BBI,
-- <b>iMe SG</b> for the approval and support of the various fan events, and also being an awesome organiser for this year's concert!
+- <b>iMe SG</b> for the support of the various fan events, and also being an awesome organiser for this year's concert!
 
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/concert-team.jpg
