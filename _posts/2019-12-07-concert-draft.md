@@ -140,7 +140,7 @@ We even gave a fan pack to each attendee of the meet up!
 
 ## Fan Support Special Event - SINGAENA ZONE
 IU brought some snacks from Korea, wanting it give it to Singaenas waiting for her at the airport. Unfortunately, she had to go through the Commercially Important People (CIP) terminal and was unable to pass the snacks to Singaenas.
-However, SGHeartIU helped to collect the snacks and distributed it to Singaenas on both days of the concert!
+However, IU passed the snacks she bought to SGHeartIU and we distributed it to Singaenas on both days of the concert!
 <br><i>[See Facebook Post...](https://www.facebook.com/sgheartiu/posts/1443454632496613){:target="_blank"}</i>
 
 {% capture images %}
