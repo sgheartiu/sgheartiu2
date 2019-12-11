@@ -155,7 +155,7 @@ However, SGHeartIU helped to collect the snacks and distributed it to Singaenas 
 ## Thank You
 This year's fan support was a great success as IU and Singaenas had a great time on both days of the concert.
 We would like to thank the following people:
-- <b>SGHeartIU's organising committee</b> for planning and executing the fan support,
+- <b>SGHeartIU Team</b> for planning and executing the fan support,
 - <b>Fan support funds contributors</b> for contributing generously so that the fan support could happen,
 - <b>Volunteers</b> for lending a helping hand during the preparation and execution,
 - <b>Singaenas</b> for attending the concert and making IU feel welcome in the hometown of BBI BBI,
