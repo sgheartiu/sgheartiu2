@@ -32,10 +32,10 @@ Donors of SGD$50 will receive a random chibi IU keychain. Donors of SGD$100 and 
 
 
 Due to the sudden additional day of concert, we extended our fan support deadline as we required additional fundings to support both days.
-In the 46 days of fan support duration, we raised over SGD$4600! Thank you Singaenas for contributing so generously to our fan support!
+In the 46 days of fan support duration, we raised over SGD$7000! Thank you Singaenas for contributing so generously to our fan support!
 <br><i>[See Facebook Post...](https://www.facebook.com/sgheartiu/photos/a.365045247004229/1372723392903071/){:target="_blank"}</i>
 
-Please feel free to view our fan support spending report <a href="https://www.facebook.com/365013863674034/posts/1164178867090859/" target="_blank">here</a>.
+Please feel free to view our fan support spending report <a href="/assets/files/fundsreport-concert-2019.pdf" target="_blank">here</a>.
 
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/fansupport-infograph.jpg
@@ -83,8 +83,11 @@ The flower lights together with the green finger lights are supposed to create a
 
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/day1-event-instructions.jpg
+    /assets/posts/2019-12-07-concert-2019/day1-event-1.jpg
+    /assets/posts/2019-12-07-concert-2019/day1-event-2.jpg
+    /assets/posts/2019-12-07-concert-2019/day1-event-3.gif
 {% endcapture %}
-{% include gallery images=images cols=1 %}
+{% include gallery images=images cols=3 caption="Flower Field fan event photo (Credit: iMe SG and wuulli)" %}
 
 
 IU complimented that the flower light event was cute and pretty. She thought that the flower lights were light sticks and promised to bring the light sticks to her overseas concert next year!
@@ -103,8 +106,10 @@ When IU sang 'Love, Poem', everybody also waved a flashing blue light on their p
 
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/day2-event-instructions.jpg
+    /assets/posts/2019-12-07-concert-2019/day2-event-1.jpg
+    /assets/posts/2019-12-07-concert-2019/day2-event-2.jpg
 {% endcapture %}
-{% include gallery images=images cols=1 %}
+{% include gallery images=images cols=2 caption="Handbanner and Blue Ocean fan event photo (Credit: iMe SG)" %}
 
 IU mentioned that this was her first time experiencing an opening event, and even responded to the hand banner's message with "I came back because I liked it too".
 <audio controls>
@@ -137,6 +142,47 @@ We even gave a fan pack to each attendee of the meet up!
 {% include gallery images=images cols=1 caption="Fan packs given to all Unaenas at the meet up" %}
 
 
+## Fan Support Event #8 - Cake, Snacks, Bubble Tea for IU and Team
+To thank IU and her team for their hardwork, we have prepared snacks and bubble tea for IU and her team, to show our token of appreciation.
+We even presented a customised cake of IU "eating" the MBS building, referencing to the iconic instagram MBS picture which IU posted after her concert last year.
+<br><i>[See Facebook Post...](https://www.facebook.com/sgheartiu/posts/1466075953567814){:target="_blank"}</i>
+
+{% capture images %}
+    /assets/posts/2019-12-07-concert-2019/snacks-for-IU-1.jpg
+    /assets/posts/2019-12-07-concert-2019/snacks-for-IU-2.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
+{% capture images %}
+    /assets/posts/2019-12-07-concert-2019/snacks-for-IU-3.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 caption="Customised cake of IU eating the MBS building" %}
+
+
+## Fan Support Event #9 - Congratulatory Flower Stands
+We sent a congratulatory flower stand to welcome IU back to Singapore. In addition, we also open to allow international fan clubs to send their congratulatory flower stands.
+These flower stands were being placed backstage for IU to see, and subsequently displayed at the venue foyer for Singaenas to see.
+We would like to thank the various fan clubs from Taiwan, China, Malaysia, Korea, Argentina, and Canada for showing their support in Singapore!
+<br><i>[See Facebook Post...](https://www.facebook.com/sgheartiu/posts/1450929365082473){:target="_blank"}</i>
+
+{% capture images %}
+    /assets/posts/2019-12-07-concert-2019/flowers-singapore-1.jpg
+    /assets/posts/2019-12-07-concert-2019/flowers-singapore-2.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 caption="Congratulatory Flower Stands from international fan clubs being displayed in Singapore" %}
+
+
+We also sent congratulatory flower stands on behalf of Singaenas to 
+[Bangkok](https://www.facebook.com/sgheartiu/posts/1464467780395298){:target="_blank"} and 
+[Kuala Lumpur](https://www.facebook.com/sgheartiu/posts/1461483994027010){:target="_blank"} concert to show our love. 
+We would like to thank [IU_Thailand](https://www.facebook.com/IUThailand){:target="_blank"} and [MYIU](https://www.facebook.com/MYIU1993){:target="_blank"} for organising the flowers. 
+
+{% capture images %}
+    /assets/posts/2019-12-07-concert-2019/flowers-malaysia.jpg
+    /assets/posts/2019-12-07-concert-2019/flowers-bangkok.jpg
+{% endcapture %}
+{% include gallery images=images cols=2 caption="From the left: Kuala Lumpur and Bangkok congratulatory flower stand by Singaenas" %}
+
 
 ## Fan Support Special Event - SINGAENA ZONE
 IU brought some snacks from Korea, wanting it give it to Singaenas waiting for her at the airport. Unfortunately, she had to go through the Commercially Important People (CIP) terminal and was unable to pass the snacks to Singaenas.
@@ -146,11 +192,15 @@ However, IU passed the snacks she bought to SGHeartIU and we distributed it to S
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/IU-snacks.jpg
 {% endcapture %}
-{% include gallery images=images cols=1 %}
+{% include gallery images=images cols=1 caption="Snacks IU brought for Singaenas" %}
+
+Here is a short video of Singaenas thanking IU for the snacks, with music arranged by SGHIU's talented musician!
+<video controls width="100%" height="auto" muted>
+	<source src="/assets/posts/2019-12-07-concert-2019/snacks-thank-you.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 
-## Snacks for IU and Team
-[IN PROGRESS]
 
 ## Thank You
 This year's fan support was a great success as IU and Singaenas had a great time on both days of the concert.
