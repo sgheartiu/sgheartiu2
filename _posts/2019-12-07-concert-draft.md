@@ -157,7 +157,24 @@ We even presented a customised cake of IU "eating" the MBS building, referencing
 {% include gallery images=images cols=1 caption="Customised cake of IU eating the MBS building" %}
 
 
-## Fan Support Event #9 - Congratulatory Flower Stands
+## Fan Support Event #9 - Gifts for IU
+We prepared some gifts for IU on behalf of Singaenas. 
+<br>
+1. Gem biscuit (aka star biscuit) cushion. 
+The star biscuit is a traditional Singapore snack that is known by all. IU calls her female fans <i>Star Candies</i> and her male fans <i>Biscuits</i>.
+This star biscuit cushion is a word play on the way IU call her fans.
+<br>
+2. Deck of Singlish cards. Since Singaporeans are known for our Singlish (Singaporean English slang), this deck of cards will be a fun way to introduce some Singlish to IU.
+<br>
+3. Singaena Exam Paper. This exam paper is a fun way for to test IU's knowledge about Singapore.
+{% capture images %}
+    /assets/posts/2019-12-07-concert-2019/gifts.jpg
+{% endcapture %}
+{% include gallery images=images cols=1 caption="Star Biscuit Cushion, Singlish Cards, and Singaena Exam Paper for IU." %}
+ 
+
+
+## Fan Support Event #10 - Congratulatory Flower Stands
 We sent a congratulatory flower stand to welcome IU back to Singapore. In addition, we also allowed international fan clubs to send their congratulatory flower stands.
 These flower stands were placed backstage for IU, and subsequently displayed at the venue foyer for Singaenas.
 We would like to thank the various fan clubs from Taiwan, China, Malaysia, Korea, Argentina, and Canada for showing their support in Singapore!
