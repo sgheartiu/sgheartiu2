@@ -162,11 +162,11 @@ We prepared some gifts for IU on behalf of Singaenas.
 <br>
 1. Gem biscuit (aka star biscuit) cushion. 
 The star biscuit is a traditional Singapore snack that is known by all. IU calls her female fans <i>Star Candies</i> and her male fans <i>Biscuits</i>.
-This star biscuit cushion is a word play on the way IU call her fans.
+This star biscuit cushion is a word play on the way IU call her fans, and it represents all Singaenas.
 <br>
 2. Deck of Singlish cards. Since Singaporeans are known for our Singlish (Singaporean English slang), this deck of cards will be a fun way to introduce some Singlish to IU.
 <br>
-3. Singaena Exam Paper. This exam paper is a fun way for to test IU's knowledge about Singapore.
+3. Singaena Exam Paper. Since IU mentioned that she love quizzes, this Singapore styled exam paper is a fun way to test IU's knowledge about Singapore.
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/gifts.jpg
 {% endcapture %}
