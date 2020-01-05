@@ -166,7 +166,7 @@ This star biscuit cushion is a word play on the way IU call her fans, and it rep
 <br>
 2. Deck of Singlish cards. Since Singaporeans are known for our Singlish (Singaporean English slang), this deck of cards will be a fun way to introduce some Singlish to IU.
 <br>
-3. Singaena Exam Paper. Since IU mentioned that she love quizzes, this Singapore styled exam paper is a fun way to test IU's knowledge about Singapore.
+3. Singaena Exam Paper. Since IU mentioned that she love quizzes, this Singapore styled exam paper is a fun way to test IU's knowledge about Singapore and Singaenas.
 {% capture images %}
     /assets/posts/2019-12-07-concert-2019/gifts.jpg
 {% endcapture %}
