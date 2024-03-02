@@ -10,7 +10,8 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                //www.sgheartiu.com
 host:               0.0.0.0
-fanchant:           'assets/files/fanchant-concert-2019-v2.pdf'
+#fanchant:           'assets/files/fanchant-concert-2019-v2.pdf'
+fanchant:           //fanchants.iutsc.com
 
 # Jekyll
 permalink:          /:title/
