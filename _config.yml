@@ -8,10 +8,10 @@ logo:               'assets/img/logo-small.png'
 background:         'assets/img/background-medium.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                //fanchants.sgheartiu.com
+url:                //www.sgheartiu.com
 host:               0.0.0.0
 #fanchant:           'assets/files/fanchant-concert-2019-v2.pdf'
-fanchant:           //fanchants.iutsc.com
+fanchant:           //fanchants.sgheartiu.com
 
 # Jekyll
 permalink:          /:title/
